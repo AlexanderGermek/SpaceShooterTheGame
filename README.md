@@ -1,5 +1,5 @@
 # SpaceShooterTheGame
-Space Shooter, keys: UIKit, SpriteKit, UserDefaults
+Space Shooter, keys: UIKit, SpriteKit, UserDefaults, CMMotionManager
 
 ### Description:
 A game like a space shooter where the player controls the ship using the accelerometer. Also I use UserDefaults for save data.
